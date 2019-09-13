@@ -1,6 +1,6 @@
 # vuemarvel
 
-> vuemarvel
+> Find your characters!
 
 ## Build Setup
 
