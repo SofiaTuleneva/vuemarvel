@@ -1,6 +1,6 @@
-# vueblogmarvel
+# vuemarvel
 
-> vueblogmarvel
+> vuemarvel
 
 ## Build Setup
 
