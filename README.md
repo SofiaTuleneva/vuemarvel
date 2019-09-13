@@ -14,3 +14,4 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+> Run on Localhost only
